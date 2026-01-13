@@ -1,6 +1,6 @@
 # Predicting Physics Observables from LHC Data
 
-This repository contains a structured report and preliminary analysis of high-energy physics data from the Large Hadron Collider (LHC). The project focuses on exploring ROOT files, understanding the internal structure of the data, and analyzing reconstructed heavy-flavor mesons ($D^*$) using Python-based tools.
+This repository contains a structured report and preliminary analysis Large Hadron Collider-like data. The project focuses on exploring ROOT files, understanding the internal structure of the data, and analyzing reconstructed heavy-flavor mesons ($D^*$) using Python-based tools.
 
 ---
 
